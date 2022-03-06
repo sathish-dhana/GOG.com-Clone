@@ -1,0 +1,15 @@
+#highlight{
+    width: 70%;
+    height: 50px;
+    border-bottom: 1px solid grey;
+    margin: auto;
+    display: flex;
+    margin-bottom: 15px;
+    align-items: center;
+}
+#shower{
+    width: 100%;
+    height: 30  em;
+    /* border: 1px solid black; */
+    background-image: url("https://www.wallpapertip.com/wmimgs/159-1599049_game-art.jpg");
+}
