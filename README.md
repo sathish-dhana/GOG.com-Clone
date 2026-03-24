@@ -11,3 +11,4 @@ GOG.com is a digital distribution platform with a curated selection of games, a 
   </td>
 </tr>
 </table>
+Updated by Cursor.
